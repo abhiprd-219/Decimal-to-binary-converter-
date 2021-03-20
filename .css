@@ -1,0 +1,49 @@
+
+body{ 
+ padding:0; 
+ margin:0; 
+ background: #F2F2F2; 
+} 
+.input_translate{ 
+ outline: none; 
+ width: 90vw; 
+ height: 6vh; 
+ margin: 10vh auto; 
+ display: block; 
+ border-radius: 30px; 
+ border: 4px solid gray; 
+ transition: all .2s; 
+ font-size: 3vh; 
+ box-shadow: 0 11px 11px 2px gray; 
+ text-align: center; 
+} 
+.input_translate:hover{ 
+ border: 4px solid #19499A
+
+; 
+ width: 92vw; 
+ cursor: pointer; 
+} 
+.mar{ 
+ margin-top: 20vh; 
+ margin-bottom: 40vh; 
+} 
+.green_num{ 
+ color: green; 
+} 
+.niz_pod{ 
+ text-decoration: underline; 
+} 
+h1{ 
+ text-align: center; 
+ margin: 23px; 
+ display: block; 
+ font-size: 7vh; 
+} 
+.id_chisla{ 
+ font-size: 3.7vh; 
+} 
+hr{ 
+ height: 2vh; 
+ background: black; 
+} 
